@@ -1,1 +1,237 @@
-<mxfile host="app.diagrams.net" modified="2022-09-26T14:15:01.156Z" agent="5.0 (Windows)" etag="cFFJq07UX1IgQNGeh8b9" version="20.3.6" type="github"><diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">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</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-09-26T14:15:06.637Z" agent="5.0 (Windows)" etag="VoWg_eSDq9CnppqCDp0Z" version="20.3.6" type="github">
+  <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
+    <mxGraphModel dx="3816" dy="1634" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="3nuBFxr9cyL0pnOWT2aG-1" value="dp_tx.c" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="70" y="290" width="100" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="eFxjzbuiIlGFCDcoWRk1-1" value="dp_tx_send&lt;br&gt;dp_tx_send_msdu_single" style="html=1;verticalAlign=bottom;endArrow=block;" parent="3nuBFxr9cyL0pnOWT2aG-1" target="3nuBFxr9cyL0pnOWT2aG-5" edge="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="50" y="200" as="sourcePoint" />
+            <mxPoint x="130" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3nuBFxr9cyL0pnOWT2aG-5" value="dp_li.c" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="250" y="290" width="140" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="eFxjzbuiIlGFCDcoWRk1-2" value="dp_li_tx.c" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="530" y="290" width="100" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="eFxjzbuiIlGFCDcoWRk1-5" value="//have enqueued to TCL HW for transmit" style="html=1;verticalAlign=bottom;endArrow=block;" parent="eFxjzbuiIlGFCDcoWRk1-2" target="eFxjzbuiIlGFCDcoWRk1-4" edge="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="50" y="220" as="sourcePoint" />
+            <mxPoint x="130" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eFxjzbuiIlGFCDcoWRk1-4" value="dp_li_tx.c" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="740" y="290" width="100" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="eFxjzbuiIlGFCDcoWRk1-23" value="UMAC_TCL_R0_TCL2FW_RING_PRODUCER_INT_SETUP&lt;br&gt;Hardware&amp;nbsp;producer SRNG will generate interrupts" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0.479;entryY=0.239;entryDx=0;entryDy=0;entryPerimeter=0;" parent="eFxjzbuiIlGFCDcoWRk1-4" target="eFxjzbuiIlGFCDcoWRk1-27" edge="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="50" y="240" as="sourcePoint" />
+            <mxPoint x="489.5" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eFxjzbuiIlGFCDcoWRk1-6" value="&lt;div&gt;&lt;span&gt;	&lt;/span&gt;struct dp_tx_queue *tx_q = &amp;amp;&lt;b&gt;&lt;font color=&quot;#ff0000&quot;&gt;msdu_info-&amp;gt;tx_queue&lt;/font&gt;&lt;/b&gt;;&lt;/div&gt;&lt;div&gt;&lt;span&gt;	&lt;/span&gt;uint8_t &lt;b&gt;&lt;font color=&quot;#ff0000&quot;&gt;ring_id&lt;/font&gt;&lt;/b&gt; = tx_q-&amp;gt;ring_id &amp;amp; DP_TX_QUEUE_MASK;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;hal_tx_desc_set_buf_addr&lt;br&gt;hal_tx_desc_set_lmac_id_li&lt;br&gt;hal_tx_desc_set_dscp_tid_table_id&lt;br&gt;hal_tx_desc_set_encrypt_type&lt;br&gt;&lt;br&gt;hal_ring_hdl = dp_tx_get_hal_ring_hdl(soc, ring_id);&lt;br&gt;dp_tx_hal_ring_access_start(soc, hal_ring_hdl)&lt;br&gt;hal_srng_src_get_next(soc-&amp;gt;hal_soc, hal_ring_hdl);&lt;br&gt;hal_tx_desc_sync(hal_tx_desc_cached, hal_tx_desc); //fill tx desc&lt;br&gt;&lt;font color=&quot;#ff0000&quot;&gt;&lt;b&gt;hal_srng_access_end, to commit the head ptr, to start the DMA.&lt;br&gt;&lt;/b&gt;&lt;br&gt;&lt;div&gt;&lt;b&gt;UMAC_TCL_R0_SW2TCL1_RING_CONSUMER_INT_SETUP_IX0&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;14:0&lt;span&gt;	&lt;/span&gt;Batch_counter_threshold&lt;span&gt;	&lt;/span&gt;RW&lt;span&gt;	&lt;/span&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;When internal batch counter reaches this value&amp;nbsp; a batch triggered sw interrupt shall be generated.&lt;/b&gt;&lt;/div&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="270" y="530" width="390" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="eFxjzbuiIlGFCDcoWRk1-3" value="arch_ops-&amp;gt;tx_hw_enqueue = dp_tx_hw_enqueue_li;" style="html=1;verticalAlign=bottom;endArrow=block;" parent="1" source="3nuBFxr9cyL0pnOWT2aG-5" target="eFxjzbuiIlGFCDcoWRk1-2" edge="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="340" y="510" as="sourcePoint" />
+            <mxPoint x="380" y="510" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="460" y="510" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eFxjzbuiIlGFCDcoWRk1-8" value="dp_main.c" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="-90" y="290" width="100" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="eFxjzbuiIlGFCDcoWRk1-9" value="txrx_ops-&amp;gt;tx.tx = dp_tx_send" style="html=1;verticalAlign=bottom;endArrow=block;" parent="eFxjzbuiIlGFCDcoWRk1-8" target="3nuBFxr9cyL0pnOWT2aG-1" edge="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="50" y="200" as="sourcePoint" />
+            <mxPoint x="130" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eFxjzbuiIlGFCDcoWRk1-10" value="osif_ol.c" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="-340" y="280" width="100" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="eFxjzbuiIlGFCDcoWRk1-11" value="osif_ol_vap_hardstart_wifi3()&lt;br&gt;osif_ol_vap_send_wifi3 (STA mode) or&lt;br&gt;osif_ol_vap_send_wifi3_fast(QDF_SAP_MODE)&lt;br&gt;osifp-&amp;gt;iv_vap_send = ops.tx.tx;" style="html=1;verticalAlign=bottom;endArrow=block;" parent="eFxjzbuiIlGFCDcoWRk1-10" target="eFxjzbuiIlGFCDcoWRk1-8" edge="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="50" y="200" as="sourcePoint" />
+            <mxPoint x="130" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eFxjzbuiIlGFCDcoWRk1-12" value="scn-&amp;gt;sc_osdev-&amp;gt;vap_hardstart = osif_ol_vap_hardstart_wifi3;&lt;br&gt;osif_11ac_wifi3_fp_dev_ops.ndo_start_xmit = vap_hardstart;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="-400" y="490" width="330" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eFxjzbuiIlGFCDcoWRk1-13" value="osif_umac.c" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="-540" y="280" width="100" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="eFxjzbuiIlGFCDcoWRk1-14" value="osif_dev_ops.ndo_start_xmit = &lt;br&gt;os_handle-&amp;gt;vap_hardstart;" style="html=1;verticalAlign=bottom;endArrow=block;" parent="eFxjzbuiIlGFCDcoWRk1-13" target="eFxjzbuiIlGFCDcoWRk1-10" edge="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="50" y="200" as="sourcePoint" />
+            <mxPoint x="130" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eFxjzbuiIlGFCDcoWRk1-15" value="linux-4.4/include/&#xa;linux/netdevice.h" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="-700" y="280" width="100" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="eFxjzbuiIlGFCDcoWRk1-16" value="&lt;div&gt;netdev_start_xmit&lt;/div&gt;&lt;div&gt;__netdev_start_xmit&lt;/div&gt;ops-&amp;gt;ndo_start_xmit(skb, dev)" style="html=1;verticalAlign=bottom;endArrow=block;" parent="eFxjzbuiIlGFCDcoWRk1-15" target="eFxjzbuiIlGFCDcoWRk1-13" edge="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="50" y="200" as="sourcePoint" />
+            <mxPoint x="170" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eFxjzbuiIlGFCDcoWRk1-17" value="linux-4.4/net/&#xa;core/dev.c" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="-840" y="220" width="100" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="eFxjzbuiIlGFCDcoWRk1-18" value="&lt;div&gt;dev_queue_xmit&lt;/div&gt;&lt;div&gt;__dev_queue_xmit&lt;/div&gt;&lt;div&gt;dev_hard_start_xmit&lt;/div&gt;xmit_one&lt;div&gt;&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=block;" parent="eFxjzbuiIlGFCDcoWRk1-17" target="eFxjzbuiIlGFCDcoWRk1-15" edge="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="50" y="200" as="sourcePoint" />
+            <mxPoint x="170" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eFxjzbuiIlGFCDcoWRk1-19" value="&lt;div&gt;struct tcl_data_cmd {&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; struct&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; buffer_addr_info&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;buf_addr_info;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;uint32_t buf_or_ext_desc_type&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; :&amp;nbsp; 1, //[0]&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; epd&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;:&amp;nbsp; 1, //[1]&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; encap_type&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; :&amp;nbsp; 2, //[3:2]&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; encrypt_type&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; :&amp;nbsp; 4, //[7:4]&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; src_buffer_swap&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;:&amp;nbsp; 1, //[8]&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; link_meta_swap&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; :&amp;nbsp; 1, //[9]&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; tqm_no_drop&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;:&amp;nbsp; 1, //[10]&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; reserved_2a&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;:&amp;nbsp; 1, //[11]&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; search_type&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;:&amp;nbsp; 2, //[13:12]&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; addrx_en&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; :&amp;nbsp; 1, //[14]&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; addry_en&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; :&amp;nbsp; 1, //[15]&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; tcl_cmd_number&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; : 16; //[31:16]&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;uint32_t data_length&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;: 16, //[15:0]&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; ipv4_checksum_en&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; :&amp;nbsp; 1, //[16]&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; udp_over_ipv4_checksum_en&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;:&amp;nbsp; 1, //[17]&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; udp_over_ipv6_checksum_en&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;:&amp;nbsp; 1, //[18]&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; tcp_over_ipv4_checksum_en&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;:&amp;nbsp; 1, //[19]&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; tcp_over_ipv6_checksum_en&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;:&amp;nbsp; 1, //[20]&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; to_fw&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;:&amp;nbsp; 1, //[21]&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; reserved_3a&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;:&amp;nbsp; 1, //[22]&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; packet_offset&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;:&amp;nbsp; 9; //[31:23]&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;uint32_t buffer_timestamp&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; : 19, //[18:0]&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; buffer_timestamp_valid&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; :&amp;nbsp; 1, //[19]&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; reserved_4a&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;:&amp;nbsp; 1, //[20]&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; hlos_tid_overwrite&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; :&amp;nbsp; 1, //[21]&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; hlos_tid&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; :&amp;nbsp; 4, //[25:22]&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; lmac_id&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;:&amp;nbsp; 2, //[27:26]&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; udp_flow_override&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;:&amp;nbsp; 2, //[29:28]&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; reserved_4b&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;:&amp;nbsp; 2; //[31:30]&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;uint32_t dscp_tid_table_num&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; :&amp;nbsp; 6, //[5:0]&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; search_index&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; : 20, //[25:6]&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; cache_set_num&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;:&amp;nbsp; 4, //[29:26]&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; mesh_enable&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;:&amp;nbsp; 2; //[31:30]&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;uint32_t reserved_6a&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;: 20, //[19:0]&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; ring_id&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;:&amp;nbsp; 8, //[27:20]&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; looping_count&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;:&amp;nbsp; 4; //[31:28]&lt;/div&gt;&lt;div&gt;};&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="270" y="790" width="390" height="550" as="geometry" />
+        </mxCell>
+        <mxCell id="eFxjzbuiIlGFCDcoWRk1-20" value="&lt;div&gt;AST : address search table&lt;/div&gt;&lt;div&gt;typedef struct _ar_wal_ast &lt;b&gt;&lt;font color=&quot;#ff0000&quot;&gt;ar_wal_ast_t&lt;/font&gt;&lt;/b&gt;;&lt;/div&gt;&lt;div&gt;struct &lt;b&gt;&lt;font color=&quot;#ff0000&quot;&gt;_ar_wal_ast &lt;/font&gt;&lt;/b&gt;{&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; A_UINT16&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;num_ast_entries;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; A_UINT16&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;num_dummy_ast_entries_allocated;/*added to support Flow overrider feature in TCL only.*/&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; A_UINT32&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;ast_hash_mask;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; A_UINT16&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;max_skid_len;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; A_UINT16&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;cur_skid_len;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; A_UINT32&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;hash_modifier; /* 0:15 (16 bits ) Xor value,16-19 (4 bits) shift value,&amp;nbsp; 20 (1 bit) of use mac 31_0 bits */&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; struct ase_hash_keys hash_keys;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; A_UINT32&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;wds_entry_active;&lt;/div&gt;&lt;div&gt;#if defined (CONFIG_MULTICAST_ECHO)&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; A_UINT32&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;num_mec_entries;&lt;/div&gt;&lt;div&gt;#endif&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; struct ast_entry&amp;nbsp; &amp;nbsp; &amp;nbsp;*ast;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; A_UINT32&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;ast_valid_bmap_array_size;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; A_UINT8&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; *ast_entry_valid_bmap;&lt;/div&gt;&lt;div&gt;#if defined (CONFIG_MULTICAST_ECHO)&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; A_UINT8&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; *mec_entry_bmap;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; A_UINT8&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; *mec_entry_active_bmap;&lt;/div&gt;&lt;div&gt;#endif&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; A_UINT8&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; astTimeoutThreshold;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; A_UINT8&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; astMaxSearch;&lt;/div&gt;&lt;div&gt;#ifndef CONFIG_DISABLE_AST_SKID_ADJUSTMENT&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; A_UINT8&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; *ast_entry_skid_len;&lt;/div&gt;&lt;div&gt;#endif&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; CMNOS_MUTEX_DECL(ast_lock);&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; A_UINT8&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; *temp_reo_desc;&lt;/div&gt;&lt;div&gt;};&lt;/div&gt;&lt;br&gt;struct &lt;b&gt;&lt;font color=&quot;#ff0000&quot;&gt;ast_entry &lt;/font&gt;&lt;/b&gt;{&lt;div&gt;&amp;nbsp; &amp;nbsp; struct addr_search_entry hw_ast_entry; /* HW AST entry */&lt;/div&gt;&lt;div&gt;};&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="790" y="650" width="360" height="500" as="geometry" />
+        </mxCell>
+        <mxCell id="eFxjzbuiIlGFCDcoWRk1-21" value="//AST Common API&lt;br&gt;ar_wal_ast_alloc_peer() //allocate and initialize an&amp;nbsp; entry in the AST to&amp;nbsp; be used for a peer.&lt;br&gt;WAL_AST_ENTRY_MATCH(&amp;amp;ast_handle-&amp;gt;ast[temp_ast_index], mac_addr_31_0, mac_addr_47_32))&lt;br&gt;//search the AST (with key id of 0) by mac address for the AST index&lt;br&gt;AST_INDEX ar_wal_ast_search_index(wal_pdev_t *pdev, unsigned char *macaddr);&lt;br&gt;//Fetch AST entry by ast index&lt;br&gt;struct ast_entry *ar_wal_ast_get_entry_by_index(wal_pdev_t *pdev, AST_INDEX ast_index);" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="790" y="1150" width="550" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="eFxjzbuiIlGFCDcoWRk1-24" value="ar_wal_tx_de.c " style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="1450" y="460" width="100" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="eFxjzbuiIlGFCDcoWRk1-25" value="wal_tx_de_trigger_hdlr&lt;br&gt;tx_de_tcl_proc&lt;br&gt;&lt;div style=&quot;color: rgb(212 , 212 , 212) ; background-color: rgb(30 , 30 , 30) ; font-family: &amp;#34;consolas&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; font-size: 14px ; line-height: 19px&quot;&gt;whal_tcl_entry_pop(WHAL_TCL2FW_OUTPUT_RING)&lt;/div&gt;msdu_buf_ptr = tcl_res-&amp;gt;buf_addr_info&lt;br&gt;ar_wal_tx_de_input" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0.49;entryY=0.834;entryDx=0;entryDy=0;entryPerimeter=0;" parent="eFxjzbuiIlGFCDcoWRk1-24" target="eFxjzbuiIlGFCDcoWRk1-49" edge="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="50" y="240" as="sourcePoint" />
+            <mxPoint x="420" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eFxjzbuiIlGFCDcoWRk1-26" value="ar_wal_ast_get_entry_by_index&lt;br&gt;&lt;b&gt;&lt;font color=&quot;#ff0000&quot;&gt;WAL_MODULE_DE, /* 0x14 */&amp;nbsp;&lt;/font&gt;&lt;/b&gt;Debug Module ID" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="1510" y="710" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eFxjzbuiIlGFCDcoWRk1-27" value="txde_thread.c" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="1190" y="460" width="100" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="eFxjzbuiIlGFCDcoWRk1-29" value="A_PLAT_SRNG_CONFIG(A_INUM_&lt;b&gt;&lt;font color=&quot;#ff0000&quot;&gt;TCL2FW_OUTPUT&lt;/font&gt;&lt;/b&gt;, &amp;amp;intr_cfg-&amp;gt;msi_addr, &amp;amp;intr_cfg-&amp;gt;msi_data);&lt;br&gt;IRQ numbers associate with signal&lt;br&gt;cmnos_irq_register(A_INUM_TCL2FW_OUTPUT,&amp;nbsp; me, WLAN_THREAD_SIG_TX_DE_TRIGGER);&lt;br&gt;WLAN_THREAD_SIG_TX_DE_TRIGGER" style="html=1;verticalAlign=bottom;endArrow=block;" parent="eFxjzbuiIlGFCDcoWRk1-27" target="eFxjzbuiIlGFCDcoWRk1-24" edge="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="50" y="160" as="sourcePoint" />
+            <mxPoint x="130" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eFxjzbuiIlGFCDcoWRk1-31" value="&lt;font style=&quot;font-size: 16px&quot; color=&quot;#0000ff&quot;&gt;&lt;b&gt;TCL(Tx Classifier)&lt;/b&gt;&lt;/font&gt;" style="html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="880" y="294" width="300" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="eFxjzbuiIlGFCDcoWRk1-32" value="UMAC_TCL_R0_SW2TCL1_RING_CONSUMER" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fontColor=#0000FF;" parent="1" vertex="1">
+          <mxGeometry x="880" y="144" width="300" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="eFxjzbuiIlGFCDcoWRk1-33" value="   " style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="eFxjzbuiIlGFCDcoWRk1-32" vertex="1">
+          <mxGeometry y="26" width="300" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="eFxjzbuiIlGFCDcoWRk1-34" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="eFxjzbuiIlGFCDcoWRk1-32" vertex="1">
+          <mxGeometry y="52" width="300" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="eFxjzbuiIlGFCDcoWRk1-35" value=" " style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="eFxjzbuiIlGFCDcoWRk1-32" vertex="1">
+          <mxGeometry y="60" width="300" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="eFxjzbuiIlGFCDcoWRk1-37" value="UMAC_TCL_R0_TCL2FW_RING_PRODUCER" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fontColor=#0000FF;" parent="1" vertex="1">
+          <mxGeometry x="880" y="404" width="300" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="eFxjzbuiIlGFCDcoWRk1-38" value="   " style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="eFxjzbuiIlGFCDcoWRk1-37" vertex="1">
+          <mxGeometry y="26" width="300" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="eFxjzbuiIlGFCDcoWRk1-39" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="eFxjzbuiIlGFCDcoWRk1-37" vertex="1">
+          <mxGeometry y="52" width="300" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="eFxjzbuiIlGFCDcoWRk1-40" value=" " style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="eFxjzbuiIlGFCDcoWRk1-37" vertex="1">
+          <mxGeometry y="60" width="300" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="eFxjzbuiIlGFCDcoWRk1-41" value="dispatch" style="html=1;verticalAlign=bottom;endArrow=block;" parent="1" target="eFxjzbuiIlGFCDcoWRk1-31" edge="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="1030" y="234" as="sourcePoint" />
+            <mxPoint x="1110" y="264" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eFxjzbuiIlGFCDcoWRk1-42" value="dispatch" style="html=1;verticalAlign=bottom;endArrow=block;" parent="1" edge="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="1030" y="344" as="sourcePoint" />
+            <mxPoint x="1030" y="404" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eFxjzbuiIlGFCDcoWRk1-43" value="" style="shape=line;html=1;strokeWidth=6;strokeColor=#ff0000;fontColor=#0000FF;align=center;" parent="1" vertex="1">
+          <mxGeometry x="-670" y="90" width="200" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="eFxjzbuiIlGFCDcoWRk1-44" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;fontColor=#0000FF;" parent="1" source="eFxjzbuiIlGFCDcoWRk1-43" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-570" y="660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eFxjzbuiIlGFCDcoWRk1-45" value="Linux--&amp;gt;Host Driver" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#0000FF;" parent="1" vertex="1">
+          <mxGeometry x="-630" y="70" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="eFxjzbuiIlGFCDcoWRk1-46" value="" style="shape=line;html=1;strokeWidth=6;strokeColor=#ff0000;fontColor=#0000FF;align=center;" parent="1" vertex="1">
+          <mxGeometry x="580" y="80" width="200" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="eFxjzbuiIlGFCDcoWRk1-47" value="Linux--&amp;gt;Host Driver" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#0000FF;" parent="1" vertex="1">
+          <mxGeometry x="620" y="60" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="eFxjzbuiIlGFCDcoWRk1-48" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;fontColor=#0000FF;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="679.29" y="600" as="targetPoint" />
+            <mxPoint x="679.29" y="80" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eFxjzbuiIlGFCDcoWRk1-49" value="ar_wal_tx_de.c " style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="1850" y="450" width="100" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="eFxjzbuiIlGFCDcoWRk1-51" value="&lt;b&gt;_tx_de_input_tx_classify&lt;/b&gt;(struct wal_tx_de_info *tx_de_info)&lt;br&gt;//get the tid info&lt;br&gt;&lt;div&gt;&lt;b&gt;&lt;font color=&quot;#ff0000&quot;&gt;ar_wal_tx_q_enque&lt;/font&gt;&lt;/b&gt;(tx_de_info.peer_entry,tx_de_info.tid_q,&lt;/div&gt;&lt;div&gt;&amp;amp;fr_prm, tx_de_info.tx_q_enq_flags, tx_de_info.tidno);&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0.49;entryY=0.834;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="1900" y="740" as="sourcePoint" />
+            <mxPoint x="2299" y="740.2" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eFxjzbuiIlGFCDcoWRk1-52" value="ar_tx_q_queue.c " style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="2250" y="450" width="100" height="600" as="geometry" />
+        </mxCell>
+        <mxCell id="eFxjzbuiIlGFCDcoWRk1-59" value="&lt;b&gt;&lt;font color=&quot;#ff0000&quot;&gt;_tx_q_enque_tqm_bypass&lt;br&gt;//no TQM&lt;/font&gt;&lt;/b&gt;" style="html=1;verticalAlign=bottom;endArrow=block;fontColor=#0000FF;" parent="eFxjzbuiIlGFCDcoWRk1-52" target="eFxjzbuiIlGFCDcoWRk1-57" edge="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="50" y="550" as="sourcePoint" />
+            <mxPoint x="130" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eFxjzbuiIlGFCDcoWRk1-53" value="&lt;b&gt;&lt;font color=&quot;#ff0000&quot;&gt;_tx_q_enque_tqm&lt;br&gt;//TQM&lt;br&gt;&lt;/font&gt;&lt;/b&gt;" style="html=1;verticalAlign=bottom;endArrow=block;fontColor=#0000FF;" parent="1" edge="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="2300" y="820" as="sourcePoint" />
+            <mxPoint x="2520" y="820" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eFxjzbuiIlGFCDcoWRk1-54" value="ar_wal_tqm.c " style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="2470" y="680" width="100" height="510" as="geometry" />
+        </mxCell>
+        <mxCell id="eFxjzbuiIlGFCDcoWRk1-55" value="wal_tqm_enqueue_frame&lt;br&gt;WHAL_FW2TQM_ENT_RING" style="html=1;verticalAlign=bottom;endArrow=block;fontColor=#0000FF;" parent="eFxjzbuiIlGFCDcoWRk1-54" edge="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="50" y="160" as="sourcePoint" />
+            <mxPoint x="290" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eFxjzbuiIlGFCDcoWRk1-56" value="struct tqm_entrance_ring *tqm_entry&lt;br&gt;tqm_entry = whal_tqm_entrance_alloc();&lt;br&gt;//Fill TQM ring" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#0000FF;align=left;" parent="1" vertex="1">
+          <mxGeometry x="2530" y="850" width="220" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="eFxjzbuiIlGFCDcoWRk1-57" value="ar_tx_q_enque.c " style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="2790" y="740" width="100" height="510" as="geometry" />
+        </mxCell>
+        <mxCell id="eFxjzbuiIlGFCDcoWRk1-60" value="&lt;div&gt;&lt;font color=&quot;#ff3333&quot;&gt;&amp;nbsp; &amp;nbsp; /* Insert MPDU to FRAMEQ. */&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#ff3333&quot;&gt;&amp;nbsp; &amp;nbsp; _tx_enq_mpdu2frq(pdev, peer, tq, frq, mpdu, msdu, info, flags);&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#ff3333&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#ff3333&quot;&gt;sched_algo_send_trigger(tq, &amp;amp;arg);&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=block;fontColor=#0000FF;" parent="eFxjzbuiIlGFCDcoWRk1-57" edge="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="50" y="300" as="sourcePoint" />
+            <mxPoint x="390" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
