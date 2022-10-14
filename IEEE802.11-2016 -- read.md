@@ -139,3 +139,6 @@
 	transmitted basic service set identifier (BSSID): The BSSID included in the medium access control (MAC) header transmitter address field of a Beacon frame when the multiple BSSID capability is supported.
 
 	user: An individual station or group of stations (STAs) identified by a single receive address (RA) in the context of single-user multiple input, multiple output (SU-MIMO) or multi-user multiple input, multiple output (MU-MIMO).
+
+#### QoS BSS
+	
